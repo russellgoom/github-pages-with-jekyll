@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Hello, good evening, and welcome
+Welcome to the ramblings of an old fool...
 
-I'm glad you are here. I plan to talk about ...
+
